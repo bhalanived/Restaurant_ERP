@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Builds
+dist/
+.next/
+out/
+build/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
